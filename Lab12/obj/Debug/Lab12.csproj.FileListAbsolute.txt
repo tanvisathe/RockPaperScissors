@@ -1,0 +1,6 @@
+c:\users\tanvi\documents\visual studio 2017\Projects\RPSgame\Lab12\bin\Debug\Lab12.exe.config
+c:\users\tanvi\documents\visual studio 2017\Projects\RPSgame\Lab12\bin\Debug\Lab12.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\RPSgame\Lab12\bin\Debug\Lab12.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\RPSgame\Lab12\obj\Debug\Lab12.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\RPSgame\Lab12\obj\Debug\Lab12.pdb
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\RPSgame\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
